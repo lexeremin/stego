@@ -131,7 +131,15 @@ dmypy.json
 #stegocontainers 
 *.bmp
 *.jpeg
+*.jpg
 *.png 
+.img
+img/
 
 #stegomessages
 *.txt
+
+#macOS thing
+*.DS_Store
+.vscode
+.vscode/
